@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## String
+|  |
+| ------- |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+## Stack
+|  |
+| ------- |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 <!---LeetCode Topics End-->
