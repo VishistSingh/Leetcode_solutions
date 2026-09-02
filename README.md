@@ -41,6 +41,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
