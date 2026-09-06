@@ -38,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Stack
 |  |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
