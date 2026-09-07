@@ -10,6 +10,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -84,6 +86,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
