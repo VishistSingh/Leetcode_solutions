@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
         ListNode* slow=head;
-        ListNode* fast=head->next
+        ListNode* fast=head;
         ;
         while(fast!=NULL&&fast->next!=NULL)
         {
@@ -20,17 +20,6 @@ public:
             fast=fast->next->next;
         }
 
-        ListNode* temp=head;
-        int count =0;
-        while(temp!=NULL)
-        {
-            count++;
-            temp=temp->next;
-        }
-        if(count%2==0)
-        {
-            return slow->next;
-        }
-        else return slow;
+       return slow;
     }
 };
