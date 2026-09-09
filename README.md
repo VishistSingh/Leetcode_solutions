@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0633-sum-of-square-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
