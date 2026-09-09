@@ -8,6 +8,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -93,6 +94,7 @@
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -108,6 +110,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -130,4 +133,8 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
