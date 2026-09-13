@@ -49,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0649-dota2-senate) |
