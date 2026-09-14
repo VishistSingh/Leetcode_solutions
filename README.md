@@ -86,6 +86,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0061-rotate-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -110,6 +111,7 @@
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -119,6 +121,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
 |  |
@@ -128,6 +131,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -170,4 +174,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
