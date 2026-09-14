@@ -11,6 +11,7 @@
 | [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -115,6 +116,7 @@
 | [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Sorting
 |  |
@@ -135,6 +138,7 @@
 | [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
