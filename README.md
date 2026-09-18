@@ -35,6 +35,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
