@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -67,6 +68,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
