@@ -65,6 +65,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
