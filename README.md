@@ -93,6 +93,7 @@
 | [0633-sum-of-square-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@
 | [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
