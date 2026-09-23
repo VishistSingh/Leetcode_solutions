@@ -44,6 +44,7 @@
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -111,6 +112,7 @@
 | [0633-sum-of-square-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
@@ -202,6 +205,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -214,6 +218,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Backtracking
