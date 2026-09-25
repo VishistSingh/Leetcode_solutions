@@ -16,6 +16,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -158,6 +159,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -166,6 +168,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -185,6 +188,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
@@ -198,6 +202,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -264,4 +269,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
