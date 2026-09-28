@@ -96,6 +96,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -156,6 +157,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -304,4 +306,8 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
