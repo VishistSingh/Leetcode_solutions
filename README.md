@@ -49,6 +49,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -169,6 +170,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0649-dota2-senate) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
@@ -232,6 +234,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -265,6 +268,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -338,4 +342,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
