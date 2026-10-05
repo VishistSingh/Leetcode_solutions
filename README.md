@@ -87,6 +87,7 @@
 | [0649-dota2-senate](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -110,6 +111,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
@@ -311,6 +313,7 @@
 | [0022-generate-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
