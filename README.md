@@ -10,6 +10,7 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
@@ -41,6 +43,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -55,6 +58,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -307,6 +311,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
 ## Divide and Conquer
 |  |
