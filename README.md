@@ -64,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -241,6 +242,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -392,4 +394,8 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
