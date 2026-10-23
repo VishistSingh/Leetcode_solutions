@@ -85,6 +85,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3904-smallest-stable-index-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Brute-Force Search
 |  |
 | ------- |
