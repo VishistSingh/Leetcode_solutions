@@ -357,6 +357,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0715-range-module](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0715-range-module) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Monotonic Stack
 |  |
@@ -377,6 +378,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0715-range-module](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0715-range-module) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,4 +400,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0056-merge-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0715-range-module](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0715-range-module) |
 <!---LeetCode Topics End-->
