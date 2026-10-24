@@ -1,36 +1,39 @@
 class Solution {
 public:
-int n;
-int m;
-int dr[4]={-1,1,0,0};
-int dc[4]={0,0,-1,1};
-  void dfs(vector<vector<int>> &image,int r,int c,int old,int color)
-  {
-    image[r][c]=color;
-
-    for(int i=0;i<4;i++)
-    {
-        int newr=r+dr[i];
-        int newc=c+dc[i];
-
-        if(newr>=0 && newr<n && newc>=0 && newc<m && image[newr][newc]==old)
-        {
-            dfs(image,newr ,newc,old,color);
-        }
-    }
-  }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        n=image.size();
-        m=image[0].size();
+     int n=image.size();
+     int m=image[0].size();
+      
+      int oldc=image[sr][sc];
+      if(oldc==color)
+      return image;
 
-        int old=image[sr][sc];
+     queue<pair<int,int>> q;
+     q.push({sr,sc});
+     image[sr][sc]=color;
+    int dx[]={-1,1,0,0};
+    int dy[]={0,0,-1,1};
 
-        if(old==color)
-        return  image;
+     while(!q.empty())
+     {
+        int i=q.front().first;
+        int j=q.front().second;
 
-        dfs(image,sr,sc,old,color);
+        q.pop();
 
-        return image;
+        for(int k=0;k<4;k++)
+        {
+            auto ni=i+dx[k];
+            auto nj=j+dy[k];
 
+            if(ni>=0 && ni<n && nj>=0&&nj<m&&image[ni][nj]==oldc)
+            {
+            image[ni][nj]=color;
+            q.push({ni,nj});
+            }
+        }
+
+   }
+   return image;
     }
 };
