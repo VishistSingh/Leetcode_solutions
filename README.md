@@ -122,6 +122,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2484-count-palindromic-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2484-count-palindromic-subsequences) |
 | [3498-reverse-degree-of-a-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -152,6 +153,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0633-sum-of-square-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
