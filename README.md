@@ -88,6 +88,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -105,6 +106,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 ## String
 |  |
 | ------- |
@@ -258,6 +260,7 @@
 | [0056-merge-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2126-destroying-asteroids](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
