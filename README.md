@@ -45,6 +45,7 @@
 | [0841-keys-and-rooms](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
@@ -80,6 +81,7 @@
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -351,6 +353,7 @@
 | [0733-flood-fill](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
