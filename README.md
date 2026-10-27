@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0184-department-highest-salary) |
 ## Depth-First Search
 |  |
 | ------- |
