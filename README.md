@@ -128,6 +128,7 @@
 | [0032-longest-valid-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0299-bulls-and-cows](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0649-dota2-senate) |
@@ -323,6 +324,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -391,6 +393,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0299-bulls-and-cows) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Segment Tree
 |  |
