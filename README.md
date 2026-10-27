@@ -76,6 +76,7 @@
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0695-max-area-of-island) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0633-sum-of-square-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2409-count-days-spent-together) |
@@ -347,6 +349,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
@@ -437,4 +440,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
