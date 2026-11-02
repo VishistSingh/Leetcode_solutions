@@ -27,6 +27,7 @@
 | [1302-deepest-leaves-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1367-linked-list-in-binary-tree) |
@@ -57,6 +58,7 @@
 | [1254-number-of-closed-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -65,6 +67,7 @@
 | [0547-number-of-provinces](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -72,6 +75,7 @@
 | [0210-course-schedule-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
 |  |
