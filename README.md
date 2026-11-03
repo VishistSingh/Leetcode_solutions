@@ -115,6 +115,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -191,6 +192,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3525-find-x-value-of-array-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
