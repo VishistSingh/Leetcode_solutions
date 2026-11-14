@@ -84,6 +84,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0213-house-robber-ii) |
@@ -333,6 +334,7 @@
 | [0085-maximal-rectangle](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0354-russian-doll-envelopes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0678-valid-parenthesis-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
