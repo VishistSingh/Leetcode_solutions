@@ -1,30 +1,24 @@
 class Solution {
 public:
-int find(string &text1,string &text2,int n,int m,vector<vector<int>> &memo)
-{   
-   if(n==0||m==0)
-   return memo[n][m]=0;
-
-   if(memo[n][m]!=-1)
-   return memo[n][m];
-
-    if(text1[n-1]==text2[m-1])
-    {
-        return memo[n][m]=1+find(text1,text2,n-1,m-1,memo);
-    }
-    else
-    {
-        return memo[n][m]=max(find(text1,text2,n-1,m,memo),
-         find(text1,text2,n,m-1,memo));
-    }
-    
-}
     int longestCommonSubsequence(string text1, string text2) {
         int n=text1.size();
         int m=text2.size();
-       vector<vector<int>> memo(n+1,vector<int> (m+1,-1));
+       vector<vector<int>> dp(n+1,vector<int> (m+1,0));
 
-       return  find(text1,text2,n,m,memo);
+       
+       for(int i=1;i<=n;i++)
+       {
+        for(int j=1;j<=m;j++)
+        {
+             if(text1[i-1]==text2[j-1])
+             dp[i][j]=1+dp[i-1][j-1];
+             else
+             {
+                dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+             }
+        }
+       }
+       return  dp[n][m];
 
         
     }
