@@ -150,6 +150,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -340,6 +341,7 @@
 | [0213-house-robber-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0354-russian-doll-envelopes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0678-valid-parenthesis-string](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2484-count-palindromic-subsequences](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2484-count-palindromic-subsequences) |
@@ -511,4 +513,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
