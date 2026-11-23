@@ -21,6 +21,7 @@
 | [0695-max-area-of-island](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0749-contain-virus](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0749-contain-virus) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -52,6 +53,7 @@
 | [0695-max-area-of-island](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0749-contain-virus](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0749-contain-virus) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0841-keys-and-rooms) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -280,6 +282,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -299,6 +302,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -326,6 +330,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
