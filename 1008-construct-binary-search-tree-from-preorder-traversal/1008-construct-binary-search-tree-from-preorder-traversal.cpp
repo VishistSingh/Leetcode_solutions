@@ -11,32 +11,24 @@
  */
 class Solution {
 public:
-TreeNode* create(TreeNode* root,vector<int>& preorder,int target)
+TreeNode* create(vector<int>& preorder,int& index,int lower,int higher)
 {
-    if(!root)
-    {
-        TreeNode* temp=new TreeNode(target);
-        return temp;
-    }
+     if(index==preorder.size()||preorder[index]<lower||preorder[index]>higher)
+     {
+        return NULL;
+     }
+      
+      TreeNode* root=new TreeNode(preorder[index++]);
+      root->left=create(preorder,index,lower,root->val);
+      root->right=create(preorder,index,root->val,higher);
 
-    if(root->val<target)
-    {
-        root->right=create(root->right,preorder,target);
-    }
-    if(root->val>target)
-    {
-        root->left=create(root->left,preorder,target);
-    }
-    return root;
+      return root; 
+
+
 }
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-       int n=preorder.size();
-       TreeNode* root=NULL;
 
-       for(int i=0;i<n;i++)
-       {
-        root=create(root,preorder,preorder[i]);
-       }
-       return root;
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        int index=0;
+     return create(preorder,index,INT_MIN,INT_MAX);
     }
 };
