@@ -127,6 +127,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -387,6 +389,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/VishistSingh/Leetcode_solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -542,4 +545,16 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/VishistSingh/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/VishistSingh/Leetcode_solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
